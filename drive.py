@@ -36,7 +36,6 @@ def parse_download(folderid):
         except:
             continue    
             
-parse_download("19nR8iEjtHK-1CP9TgtILzq7b4AGE5vB0")        
 def drive_download_folder(folderid):
     try:
         parse_download(folderid)
